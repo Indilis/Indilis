@@ -1,0 +1,116 @@
+﻿#EXTM3U
+
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="TV1"  group-title="MALAYSIA",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:2, tvg-id="" tvg-logo="" tvg-name="TV2"  group-title="MALAYSIA",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:3, tvg-id="" tvg-logo="" tvg-name="TV3"  group-title="MALAYSIA",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:4, tvg-id="" tvg-logo="" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
+#EXTINF:5, tvg-id="" tvg-logo="" tvg-name="TV9"  group-title="MALAYSIA",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:6, tvg-id="" tvg-logo="" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_manifest.m3u8
+
+#EXTINF:7, tvg-id="" tvg-logo="" tvg-name="Astro Ceria"  group-title="ASTRO",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:8, tvg-id="" tvg-logo="" tvg-name="Astro Citra"  group-title="ASTRO",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:9, tvg-id="" tvg-logo="" tvg-name="Astro Prima"  group-title="ASTRO",Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:10, tvg-id="" tvg-logo="" tvg-name="Astro Awani"  group-title="ASTRO",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:11, tvg-id="" tvg-logo="" tvg-name="Bernama TV"  group-title="ASTRO",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:12, tvg-id="" tvg-logo="" tvg-name="HBO Malaysia"  group-title="ASTRO",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:13, tvg-id="" tvg-logo="" tvg-name="Hello"  group-title="ASTRO",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+
+#EXTINF:14, tvg-id="" tvg-logo="" tvg-name="Nat Geo WILD Asia"  group-title="ASTRO",Nat Geo WILD Asia
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:15, tvg-id="" tvg-logo="" tvg-name="Naura"  group-title="ASTRO",Naura
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:16, tvg-id="" tvg-logo="" tvg-name="TVS"  group-title="ASTRO",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:17, tvg-id="" tvg-logo="" tvg-name="&Flix"  group-title="MOVIE",&Flix
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:18, tvg-id="" tvg-logo="" tvg-name="24 Hour Free Movies"  group-title="MOVIE",24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+
+#EXTINF:19, tvg-id="" tvg-logo="" tvg-name="AMC IFC Film Picks"  group-title="MOVIE",AMC IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:20, tvg-id="" tvg-logo="" tvg-name="AMC Rush"  group-title="MOVIE",AMC Rush
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:21, tvg-id="" tvg-logo="" tvg-name="American Classics"  group-title="MOVIE",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+
+#EXTINF:22, tvg-id="" tvg-logo="" tvg-name="American Horrors"  group-title="MOVIE",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:23, tvg-id="" tvg-logo="" tvg-name="An American Christmas Carol"  group-title="MOVIE",An American Christmas Carol
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+
+#EXTINF:24, tvg-id="" tvg-logo="" tvg-name="Cinemax"  group-title="MOVIE",Cinemax
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:25, tvg-id="" tvg-logo="" tvg-name="Cinemax Action"  group-title="MOVIE",Cinemax Action
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+
+#EXTINF:26, tvg-id="" tvg-logo="" tvg-name="Rakuten Action Movies 1"  group-title="MOVIE",Rakuten Action Movies 1
+https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:27, tvg-id="" tvg-logo="" tvg-name="wow Now kids"  group-title="KIDS",wow Now kids
+https://wownow-wownowkids-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:28, tvg-id="" tvg-logo="" tvg-name="Watch it Kid"  group-title="KIDS",Watch it Kid
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+
+#EXTINF:29, tvg-id="" tvg-logo="" tvg-name="TVS Pinball Network"  group-title="KIDS",TVS Pinball Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+
+#EXTINF:30, tvg-id="" tvg-logo="" tvg-name="tvo KIDS"  group-title="KIDS",tvo KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:31, tvg-id="" tvg-logo="" tvg-name="Supertoons TV"  group-title="KIDS",Supertoons TV
+https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:32, tvg-id="" tvg-logo="" tvg-name="Supertoons TV 2"  group-title="KIDS",Supertoons TV 2
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:33, tvg-id="" tvg-logo="" tvg-name="Supertoons TV 3"  group-title="KIDS",Supertoons TV 3
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:34, tvg-id="" tvg-logo="" tvg-name="Supertoons TV 4"  group-title="KIDS",Supertoons TV 4
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:35, tvg-id="" tvg-logo="" tvg-name="Supertoons TV 5"  group-title="KIDS",Supertoons TV 5
+https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:36, tvg-id="" tvg-logo="" tvg-name="Nick Jr. Too"  group-title="KIDS",Nick Jr. Too
+http://46.105.112.116/?watch=EX/Nick_Jr_Too-uk
+
+#EXTINF:37, tvg-id="" tvg-logo="" tvg-name="Lego Looney Tunes (Bumblebee)"  group-title="KIDS",Lego Looney Tunes (Bumblebee)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:38, tvg-id="" tvg-logo="" tvg-name="Lego Channel"  group-title="New Group",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
