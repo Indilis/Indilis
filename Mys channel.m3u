@@ -233,3 +233,22 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960340
 
 #EXTINF:-1, group-title="Movie@Boboiboy", Boboiboy Movie 2 (FULL)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960341
+
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-name="Arena"  group-title="SPORTS",Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" tvg-name="ASSP1"  group-title="SPORTS",ASSP1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" tvg-name="ASSP2"  group-title="SPORTS",ASSP2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" tvg-name="ASSP3"  group-title="SPORTS",ASSP3
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" tvg-name="ASSP4"  group-title="SPORTS",ASSP4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/wwe-logo-png-transparent.png" tvg-name="WWE"  group-title="SPORTS",WWE
+http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
