@@ -253,4 +253,6 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://stillrealtous.com/wp-content/uploads/2016/07/wwe1.jpg" tvg-name="WWE"  group-title="SPORTS",WWE
 http://89.187.185.100/WWE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-logo="https://static.wikia.nocookie.net/ultrafan/images/3/34/Primitive.png" tvg-name="Ultraman Geed"  group-title="Ultraman Geed",Ultraman Geed
+http://www.supercartube.com/media/videos/h264/334_720p.mp4
 
