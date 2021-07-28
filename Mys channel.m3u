@@ -49,7 +49,7 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1, tvg-id="HBO FAMILY" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png" tvg-name="HBO FAMILY"  group-title="MOVIE",HBO FAMILY
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/95925?checkedby:iptvcat.com
+http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="tvo KIDS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ff802a28-931c-40f2-8029-93fb72f68f65/ddndgm2-c9ebb1f5-8c40-4cb0-9ce6-44ccaf66e571.png" tvg-name="tvo KIDS"  group-title="KIDS",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
