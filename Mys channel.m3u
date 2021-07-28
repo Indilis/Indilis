@@ -87,6 +87,7 @@ http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="Watch it Kid" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g-U9Zx13L.png" tvg-name="Watch it Kid"  group-title="KIDS",Watch it Kid
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 
+
 #EXTINF:-1, tvg-id="KidsFlix" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51JTBFRWZoL.jpg" tvg-name="KidsFlix"  group-title="KIDS",KidsFlix
 https://stream-us-east-1.getpublica.com/cl/4ebf0016-dfae-4ba2-9ff8-7cfe53dd17d4/1024x576_1612549_5_false.m3u8
 
@@ -256,3 +257,5 @@ http://89.187.185.100/WWE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://static.wikia.nocookie.net/ultrafan/images/3/34/Primitive.png" tvg-name="Ultraman Geed"  group-title="Ultraman Geed",Ultraman Geed
 http://www.supercartube.com/media/videos/h264/334_720p.mp4
 
+#EXTINF:-1, tvg-id="FOX" tvg-logo="" group-title="MOVIE",Fox
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
