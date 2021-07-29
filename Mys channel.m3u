@@ -39,9 +39,6 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-id="Cinemax" tvg-logo="https://www.pngfind.com/pngs/m/204-2047747_cinemax-logo-hd-png-download.png" tvg-name="Cinemax"  group-title="MOVIE",Cinemax
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MOVIESPHERE FREE" tvg-logo="https://trialforfree.com/wp-content/uploads/2020/07/Untitled.jpg" tvg-name="MOVIESPHERE FREE"  group-title="MOVIE",MOVIESPHERE FREE
-https://moviesphere-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-moviesphere-plex/CDN/1920x1080_5491200/index.m3u8
-
 #EXTINF:-1, tvg-id="24 Hour Free Movies" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/poster_20200922_191828.jpg" tvg-name="24 Hour Free Movies"  group-title="MOVIE",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
@@ -151,90 +148,6 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-id="HISTORY" tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2013/07/12/117398/00621faac041f47b83422dcf96814abe-700.jpg" tvg-name="HISTORY"  group-title="Documentary",HISTORY
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Iris (EP1)
-http://www.supercartube.com/media/videos/h264/368_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Alpha (EP2)
-http://www.supercartube.com/media/videos/h264/369_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Seri (EP3)
-http://www.supercartube.com/media/videos/h264/370_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Comot (EP4)
-http://www.supercartube.com/media/videos/h264/371_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Blueprint (EP5)
-http://www.supercartube.com/media/videos/h264/372_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Bangkit (EP6)
-http://www.supercartube.com/media/videos/h264/373_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Protokol Gegas (EP7)
-http://www.supercartube.com/media/videos/h264/375_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Prestasi (EP8)
-http://www.supercartube.com/media/videos/h264/374_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Potensi (EP9)
-http://www.supercartube.com/media/videos/h264/376_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Sensasi (EP10)
-http://www.supercartube.com/media/videos/h264/377_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Bukti (EP11)
-http://www.supercartube.com/media/videos/h264/378_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Uno (EP12)
-http://www.supercartube.com/media/videos/h264/379_480p.mp4
-
-#EXTINF:-1, group-title="Musim1", Ejen Ali - Misi: Override (EP13) [FINAL]
-http://www.supercartube.com/media/videos/h264/380_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Akademi (EP1)
-http://www.supercartube.com/media/videos/h264/544_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Orientasi (EP2)
-http://www.supercartube.com/media/videos/h264/545_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Main (EP3)
-http://www.supercartube.com/media/videos/h264/546_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Analog (EP4)
-http://www.supercartube.com/media/videos/h264/547_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Cabar (EP5)
-http://www.supercartube.com/media/videos/h264/548_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Susu (EP6)
-http://www.supercartube.com/media/videos/h264/549_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Kembali (EP7)
-http://www.supercartube.com/media/videos/h264/550_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Tujuan (EP8)
-http://www.supercartube.com/media/videos/h264/551_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Peranan (EP9)
-http://www.supercartube.com/media/videos/h264/552_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Atlas (EP10)
-http://www.supercartube.com/media/videos/h264/553_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Harapan (EP11)
-http://www.supercartube.com/media/videos/h264/554_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Diez (EP12)
-http://www.supercartube.com/media/videos/h264/555_480p.mp4
-
-#EXTINF:-1, group-title="Musim2", Ejen Ali 2 - Misi: Legasi (EP13) [FINAL]
-http://www.supercartube.com/media/videos/h264/556_480p.mp4
-
-#EXTINF:-1, group-title="Movie@Boboiboy", Boboiboy The Movie
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960340
-
-#EXTINF:-1, group-title="Movie@Boboiboy", Boboiboy Movie 2 (FULL)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960341
-
 #EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-name="Arena"  group-title="SPORTS",Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
@@ -333,4 +246,88 @@ http://www.supercartube.com/media/videos/h264/389_720p.mp4
 
 #EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="VOOSNU DUMADANG ID MATOKU"  group-title="KARAOKE",VOOSNU DUMADANG ID MATOKU
 http://www.supercartube.com/media/videos/h264/379_1080p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Iris (EP1)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Iris (EP1)"  group-title="Musim1",Ejen Ali - Misi: Iris (EP1)
+http://www.supercartube.com/media/videos/h264/368_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Alpha (EP2)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Alpha (EP2)"  group-title="Musim1",Ejen Ali - Misi: Alpha (EP2)
+http://www.supercartube.com/media/videos/h264/369_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Seri (EP3)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Seri (EP3)"  group-title="Musim1",Ejen Ali - Misi: Seri (EP3)
+http://www.supercartube.com/media/videos/h264/370_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Comot (EP4)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Comot (EP4)"  group-title="Musim1",Ejen Ali - Misi: Comot (EP4)
+http://www.supercartube.com/media/videos/h264/371_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Blueprint (EP5)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Blueprint (EP5)"  group-title="Musim1",Ejen Ali - Misi: Blueprint (EP5)
+http://www.supercartube.com/media/videos/h264/372_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Bangkit (EP6)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Bangkit (EP6)"  group-title="Musim1",Ejen Ali - Misi: Bangkit (EP6)
+http://www.supercartube.com/media/videos/h264/373_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Protokol Gegas (EP7)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Protokol Gegas (EP7)"  group-title="Musim1",Ejen Ali - Misi: Protokol Gegas (EP7)
+http://www.supercartube.com/media/videos/h264/375_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Prestasi (EP8)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Prestasi (EP8)"  group-title="Musim1",Ejen Ali - Misi: Prestasi (EP8)
+http://www.supercartube.com/media/videos/h264/374_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Potensi (EP9)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Potensi (EP9)"  group-title="Musim1",Ejen Ali - Misi: Potensi (EP9)
+http://www.supercartube.com/media/videos/h264/376_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Sensasi (EP10)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Sensasi (EP10)"  group-title="Musim1",Ejen Ali - Misi: Sensasi (EP10)
+http://www.supercartube.com/media/videos/h264/377_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Bukti (EP11)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Bukti (EP11)"  group-title="Musim1",Ejen Ali - Misi: Bukti (EP11)
+http://www.supercartube.com/media/videos/h264/378_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Uno (EP12)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Uno (EP12)"  group-title="Musim1",Ejen Ali - Misi: Uno (EP12)
+http://www.supercartube.com/media/videos/h264/379_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali - Misi: Override (EP13) [FINAL]" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali - Misi: Override (EP13) [FINAL]"  group-title="Musim1",Ejen Ali - Misi: Override (EP13) [FINAL]
+http://www.supercartube.com/media/videos/h264/380_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Akademi (EP1)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Akademi (EP1)"  group-title="Musim2",Ejen Ali 2 - Misi: Akademi (EP1)
+http://www.supercartube.com/media/videos/h264/544_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Orientasi (EP2)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Orientasi (EP2)"  group-title="Musim2",Ejen Ali 2 - Misi: Orientasi (EP2)
+http://www.supercartube.com/media/videos/h264/545_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Main (EP3)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Main (EP3)"  group-title="Musim2",Ejen Ali 2 - Misi: Main (EP3)
+http://www.supercartube.com/media/videos/h264/546_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Analog (EP4)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Analog (EP4)"  group-title="Musim2",Ejen Ali 2 - Misi: Analog (EP4)
+http://www.supercartube.com/media/videos/h264/547_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Cabar (EP5)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Cabar (EP5)"  group-title="Musim2",Ejen Ali 2 - Misi: Cabar (EP5)
+http://www.supercartube.com/media/videos/h264/548_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Susu (EP6)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Susu (EP6)"  group-title="Musim2",Ejen Ali 2 - Misi: Susu (EP6)
+http://www.supercartube.com/media/videos/h264/549_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Kembali (EP7)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Kembali (EP7)"  group-title="Musim2",Ejen Ali 2 - Misi: Kembali (EP7)
+http://www.supercartube.com/media/videos/h264/550_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Tujuan (EP8)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Tujuan (EP8)"  group-title="Musim2",Ejen Ali 2 - Misi: Tujuan (EP8)
+http://www.supercartube.com/media/videos/h264/551_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Peranan (EP9)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Peranan (EP9)"  group-title="Musim2",Ejen Ali 2 - Misi: Peranan (EP9)
+http://www.supercartube.com/media/videos/h264/552_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Atlas (EP10)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Atlas (EP10)"  group-title="Musim2",Ejen Ali 2 - Misi: Atlas (EP10)
+http://www.supercartube.com/media/videos/h264/553_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Harapan (EP11)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Harapan (EP11)"  group-title="Musim2",Ejen Ali 2 - Misi: Harapan (EP11)
+http://www.supercartube.com/media/videos/h264/554_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Diez (EP12)" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Diez (EP12)"  group-title="Musim2",Ejen Ali 2 - Misi: Diez (EP12)
+http://www.supercartube.com/media/videos/h264/555_480p.mp4
+
+#EXTINF:-1, tvg-id="Ejen Ali 2 - Misi: Legasi (EP13) [FINAL]" tvg-logo="https://i.pinimg.com/originals/8a/cb/25/8acb259bf196b23f605e8bcafb2cc59c.png" tvg-name="Ejen Ali 2 - Misi: Legasi (EP13) [FINAL]"  group-title="Musim2",Ejen Ali 2 - Misi: Legasi (EP13) [FINAL]
+http://www.supercartube.com/media/videos/h264/556_480p.mp4
+
+#EXTINF:-1, tvg-id="Boboiboy The Movie" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boboy-png-1.png" tvg-name="Boboiboy The Movie"  group-title="Movie@Boboiboy",Boboiboy The Movie
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960340
+
+#EXTINF:-1, tvg-id="Boboiboy Movie 2 (FULL)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boboy-png-1.png" tvg-name="Boboiboy Movie 2 (FULL)"  group-title="Movie@Boboiboy",Boboiboy Movie 2 (FULL)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960341
 
