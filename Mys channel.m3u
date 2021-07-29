@@ -331,3 +331,21 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960340
 #EXTINF:-1, tvg-id="Boboiboy Movie 2 (FULL)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boboy-png-1.png" tvg-name="Boboiboy Movie 2 (FULL)"  group-title="Movie@Boboiboy",Boboiboy Movie 2 (FULL)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960341
 
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://freepngimg.com/download/artwork/80621-area-nobi-doraemon-dorayaki-line-nobita.png" tvg-name="Doraemon Episode 1"  group-title="Doraemon ",Doraemon Episode 1
+https://proxy-25.sg1.dailymotion.com/sec(djkNaqskckCuO1ExU1TbM7M5CUD9HWMXtYS9fNb1yyleXpjO6aDKYyJF45cjnj9zcB-Ri08Kd4Xq4lae7sfSsB94XBPAp-jDzfe7TFykYKs)/video/100/118/488811001_mp4_h264_aac_hd.m3u8#cell=sg1
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://freepngimg.com/download/artwork/80621-area-nobi-doraemon-dorayaki-line-nobita.png" tvg-name="Doraemon Episode 2"  group-title="Doraemon ",Doraemon Episode 2
+https://proxy-013.dc3.dailymotion.com/sec(NktLGdW_NTowTcekQRNIL-yMlPZF3ecB9_6y7XmYtLTF2MQqx4AEVBmOp_WQzb2annEDFMlPJaVrYFnQ_lyqsI2xVNoCAqw4C4i5-z179ms)/video/283/118/488811382_mp4_h264_aac_hd.m3u8#cell=core
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://freepngimg.com/download/artwork/80621-area-nobi-doraemon-dorayaki-line-nobita.png" tvg-name="Doraemon Episode 3"  group-title="Doraemon ",Doraemon Episode 3
+https://proxy-002.dc3.dailymotion.com/sec(LBJP6M936EOr43Frn-NvypQAFXeEg2C23U9atmkNuBo73glvLynxPZivFZnXVmVJL8oWBjtsP5xqVf02mzgCtA1IPn2GGhTn8kBTeGPHztM)/video/864/118/488811468_mp4_h264_aac_hd.m3u8#cell=core
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://freepngimg.com/download/artwork/80621-area-nobi-doraemon-dorayaki-line-nobita.png" tvg-name="Doraemon Episode 4"  group-title="Doraemon ",Doraemon Episode 4
+https://proxy-017.ix7.dailymotion.com/sec(zBLo9_ZO9Yz5cZ8xnl9pTlFYjevyjIbXssc6OPapEV2XCLuJI2YobQnXZAxEPxEgTR6sISI8vTjUXsdnmyy1TpeqwBrnJ2EKoCodUAhwOlY)/video/645/118/488811546_mp4_h264_aac_hd.m3u8#cell=core
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://freepngimg.com/download/artwork/80621-area-nobi-doraemon-dorayaki-line-nobita.png" tvg-name="Doraemon Episode 5"  group-title="Doraemon ",Doraemon Episode 5
+https://proxy-025.dc3.dailymotion.com/sec(jRUWpB4i4BTcBhaSBTsVm7R6QZy1HMxYZ7oEgx26-I04DlWbZPS8oMiogwBJHDK1jghudnLxRe8gwTVZVPO2yFz-hsFVjNwuFqWScyR51lY)/video/595/118/488811595_mp4_h264_aac_hd.m3u8#cell=core
+
+
+
