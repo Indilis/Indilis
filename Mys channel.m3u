@@ -40,7 +40,6 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="MOVIESPHERE FREE" tvg-logo="https://trialforfree.com/wp-content/uploads/2020/07/Untitled.jpg" tvg-name="MOVIESPHERE FREE"  group-title="MOVIE",MOVIESPHERE FREE
-https://moviesphere-samsung-samsungus.amagi.tv/playlistwebvtt.m3u8
 https://moviesphere-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-moviesphere-plex/CDN/1920x1080_5491200/index.m3u8
 
 #EXTINF:-1, tvg-id="24 Hour Free Movies" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/poster_20200922_191828.jpg" tvg-name="24 Hour Free Movies"  group-title="MOVIE",24 Hour Free Movies
