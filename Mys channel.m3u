@@ -235,7 +235,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960340
 #EXTINF:-1, group-title="Movie@Boboiboy", Boboiboy Movie 2 (FULL)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960341
 
-
 #EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-name="Arena"  group-title="SPORTS",Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
@@ -254,8 +253,84 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://stillrealtous.com/wp-content/uploads/2016/07/wwe1.jpg" tvg-name="WWE"  group-title="SPORTS",WWE
 http://89.187.185.100/WWE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://static.wikia.nocookie.net/ultrafan/images/3/34/Primitive.png" tvg-name="Ultraman Geed"  group-title="Ultraman Geed",Ultraman Geed
-http://www.supercartube.com/media/videos/h264/334_720p.mp4
-
 #EXTINF:-1, tvg-id="FOX" tvg-logo="" group-title="MOVIE",Fox
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Ai koti Hain Jasli "  group-title="KARAOKE",Ai koti Hain Jasli 
+http://www.supercartube.com/media/videos/h264/380_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="DARAH MUDA Wann"  group-title="KARAOKE",DARAH MUDA Wann
+http://www.supercartube.com/media/videos/h264/397_480p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Felix agus Gaman sayang minan"  group-title="KARAOKE",Felix agus Gaman sayang minan
+http://www.supercartube.com/media/videos/h264/400_1080p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Felix Agus Terbang Karaoke Minus One feat Berry"  group-title="KARAOKE",Felix Agus Terbang Karaoke Minus One feat Berry
+http://www.supercartube.com/media/videos/h264/403_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="I Don t Want to Talk About It "  group-title="KARAOKE",I Don t Want to Talk About It 
+http://www.supercartube.com/media/videos/h264/394_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Isai oku karaoke"  group-title="KARAOKE",Isai oku karaoke
+http://www.supercartube.com/media/videos/h264/398_240p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Jaidi Bading Medley"  group-title="KARAOKE",Jaidi Bading Medley
+http://www.supercartube.com/media/videos/h264/383_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Kanawahon Imbulai Noda Hain Jasli "  group-title="KARAOKE",Kanawahon Imbulai Noda Hain Jasli 
+http://www.supercartube.com/media/videos/h264/386_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Karaoke Lagu Dusun Fabian William Id Pagandada"  group-title="KARAOKE",Karaoke Lagu Dusun Fabian William Id Pagandada
+http://www.supercartube.com/media/videos/h264/408_480p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Koingoritan Kohup Do Koposion Hain Jasli"  group-title="KARAOKE",Koingoritan Kohup Do Koposion Hain Jasli
+http://www.supercartube.com/media/videos/h264/377_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Kopisanangan Kosuabon Richard Gaisah"  group-title="KARAOKE",Kopisanangan Kosuabon Richard Gaisah
+http://www.supercartube.com/media/videos/h264/385_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="KOTUMBAYAAI NO DOHO Akimin Baranting"  group-title="KARAOKE",KOTUMBAYAAI NO DOHO Akimin Baranting
+http://www.supercartube.com/media/videos/h264/391_480p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="langad ku dika karaoke"  group-title="KARAOKE",langad ku dika karaoke
+http://www.supercartube.com/media/videos/h264/404_480p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Langad ku molohing "  group-title="KARAOKE",Langad ku molohing 
+http://www.supercartube.com/media/videos/h264/393_SD.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Loyou Do Piginawaan Hain Jasli"  group-title="KARAOKE",Loyou Do Piginawaan Hain Jasli
+http://www.supercartube.com/media/videos/h264/378_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Medley Francis Landong Minusone karaoke"  group-title="KARAOKE",Medley Francis Landong Minusone karaoke
+http://www.supercartube.com/media/videos/h264/406_1080p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Miagal Sakot Totomou Petrus Onggou"  group-title="New Group",Miagal Sakot Totomou Petrus Onggou
+http://www.supercartube.com/media/videos/h264/388_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="NOBOLOU NANGKU ITI TUPUSKU Hain Jasli"  group-title="KARAOKE",NOBOLOU NANGKU ITI TUPUSKU Hain Jasli
+http://www.supercartube.com/media/videos/h264/382_480p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Orongou Rongou Ku Roslin Ginsuok"  group-title="KARAOKE",Orongou Rongou Ku Roslin Ginsuok
+http://www.supercartube.com/media/videos/h264/390_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="P RAMLEE BUNYI GITAR"  group-title="KARAOKE",P RAMLEE BUNYI GITAR
+http://www.supercartube.com/media/videos/h264/396_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Poimbolutan au kosiliu piupusan"  group-title="KARAOKE",Poimbolutan au kosiliu piupusan
+http://www.supercartube.com/media/videos/h264/381_240p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Saputangan Do Kirinda Hain Jasli"  group-title="KARAOKE",Saputangan Do Kirinda Hain Jasli
+http://www.supercartube.com/media/videos/h264/387_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Sodop pinirubaan Annie j GipiL (karaoke)"  group-title="KARAOKE",Sodop pinirubaan Annie j GipiL (karaoke)
+http://www.supercartube.com/media/videos/h264/405_SD.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Tupus Ku Hain Jasli Karaoke"  group-title="KARAOKE",Tupus Ku Hain Jasli Karaoke
+http://www.supercartube.com/media/videos/h264/399_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="Tupusku Sonsogit Sogit Tokou Hain Jasli"  group-title="KARAOKE",Tupusku Sonsogit Sogit Tokou Hain Jasli
+http://www.supercartube.com/media/videos/h264/389_720p.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.lecotyledon.fr/wp-content/uploads/2019/04/karaoke1.jpg" tvg-name="VOOSNU DUMADANG ID MATOKU"  group-title="KARAOKE",VOOSNU DUMADANG ID MATOKU
+http://www.supercartube.com/media/videos/h264/379_1080p.mp4
+
