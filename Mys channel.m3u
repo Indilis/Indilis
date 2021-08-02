@@ -62,7 +62,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1  tvg-id="Astro Ria" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/5/50/Astro_Ria_logo.png",Astro Ria
 http://198.16.106.61:8277/streams/d/Ria/playlist.m3u8
 #EXTINF:-1  tvg-id="Astro Prima" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",Astro Prima
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1  tvg-id="Astro Citra" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1  tvg-id="TV OKEY" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",TV OKEY
