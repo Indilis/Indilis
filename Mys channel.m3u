@@ -111,3 +111,29 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1  tvg-id="EPG N/A" group-title="SPORTS" tvg-logo="http://stillrealtous.com/wp-content/uploads/2016/07/wwe1.jpg",WWE
 http://89.187.185.100/WWE/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA HD",TRANS TV
+https://link.zozotv.xyz:443/Freemium4/unlimited99/43
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="INDONESIA HD",TRANS 7
+https://link.zozotv.xyz:443/Freemium4/unlimited99/44
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="INDONESIA HD",INDOSIAR
+https://link.zozotv.xyz:443/Freemium4/unlimited99/45
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="INDONESIA HD",SCTV
+https://link.zozotv.xyz:443/Freemium4/unlimited99/46
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA HD",RCTI
+https://link.zozotv.xyz:443/Freemium4/unlimited99/47
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="INDONESIA HD",GTV
+https://link.zozotv.xyz:443/Freemium4/unlimited99/48
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="INDONESIA HD",MNCTV
+https://link.zozotv.xyz:443/Freemium4/unlimited99/49
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA HD",NET.
+https://link.zozotv.xyz:443/Freemium4/unlimited99/50
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA HD",ANTV
+https://link.zozotv.xyz:443/Freemium4/unlimited99/51
+
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="MOVIE",Warner TV
+https://link.zozotv.xyz:443/Freemium4/unlimited99/86
+
+
