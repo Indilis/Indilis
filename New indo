@@ -1,5 +1,7 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0YzU4OGQtYTYyZS0zYTIyLWI4NDEtMzNiMmNiN2Q5NjJi 
 #EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/56315db3/4a39_r32.jpg" tvg-name="RCTI"  group-title="",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
