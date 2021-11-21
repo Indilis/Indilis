@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/56315db3/4a39_r32.jpg" tvg-name="RCTI"  group-title="",RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/d2469e2b/e230_r32.jpg" tvg-name="GTV"  group-title="",GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
