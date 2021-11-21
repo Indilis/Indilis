@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/56315db3/4a39_r32.jpg" tvg-name="RCTI"  group-title="",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/d2469e2b/e230_r32.jpg" tvg-name="GTV"  group-title="",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/802f8e1d/dc46_r32.jpg" tvg-name="MNC"  group-title="",MNC
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/c96cef7d/6be2_r32.jpg" tvg-name="iNEWS"  group-title="",iNEWS
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/6d8c04f1/1144_r32.jpg" tvg-name="ANTV"  group-title="",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/93a0b8e5/7ed3_r32.jpg" tvg-name="SCTV"  group-title="",SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/191ce985/99ac_r32.jpg" tvg-name="INDOSIAR"  group-title="",INDOSIAR
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/562d2bb9/2856_r32.jpg" tvg-name="TRANS TV"  group-title="",TRANS TV
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/03d5baeb/a38a_r32.jpg" tvg-name="TRANS 7"  group-title="",TRANS 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+#EXTINF:-1, tvg-id="/api/v10/epg" tvg-logo="https://static.mncnow.id/images/channel/2c987c0a/5a8a_r32.jpg" tvg-name="TVOne"  group-title="",TVOne
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/66d568b9/76cd_r32.jpg" tvg-name="RTV"  group-title="",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/e71dc3ed/0d3a_r32.jpg" tvg-name="KOMPAS TV"  group-title="",KOMPAS TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/ef77d6b0/ee80_r32.jpg" tvg-name="TVRI"  group-title="",TVRI
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/3a4e8c24/d343_r32.jpg" tvg-name="JAKTV"  group-title="",JAKTV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/a3f7fa85/7a56_r32.jpg" tvg-name="JTV"  group-title="",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/50501ffe/93b5_r32.jpg" tvg-name="BALI TV"  group-title="",BALI TV
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/99eacbb6/c2c4_r32.jpg" tvg-name="BANDUNG TV"  group-title="",BANDUNG TV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1, tvg-id="https://web-api.visionplus.id/api/v10/epg?isLive=false&start_time_from=2021-11-21&channel_ids=2830" tvg-logo="https://static.mncnow.id/images/channel/ce539ca5/bb4d_r32.jpg" tvg-name="NET."  group-title="",NET.
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/9d69df15/e1b3_r32.jpg" tvg-name="SOCCER CHANNEL"  group-title="",SOCCER CHANNEL
+https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/9022d60d/9a4c_r32.jpg" tvg-name="MUSIC CHANNEL"  group-title="",MUSIC CHANNEL
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1, tvg-id="https://web-api.visionplus.id/api/v10/epg?isLive=false&start_time_from=2021-11-21&channel_ids=46" tvg-logo="https://static.mncnow.id/images/channel/b4078005/ecab_r32.jpg" tvg-name="LIFE"  group-title="",LIFE
+https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/2b3bc0b8/f09b_r32.jpeg" tvg-name="Reformed 21"  group-title="",Reformed 21
+https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.mncnow.id/images/channel/1888655f/a358_r32.jpg" tvg-name="Vision Prime"  group-title="",Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
